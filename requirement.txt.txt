@@ -1,4 +1,0 @@
-joblib
-streamlit
-numpy
-pandas

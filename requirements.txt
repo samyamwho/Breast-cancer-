@@ -2,3 +2,9 @@ joblib
 streamlit
 numpy
 pandas
+joblib
+streamlit
+numpy
+pandas
+scikit-learn
+xgboost

@@ -21,7 +21,7 @@ model_files = {
     "XGBoost": "XGBoost_10.pkl",
     "Linear Regression": "LinearRegression_10.pkl",
     "Elastic Net": "ElasticNet_10.pkl",
-    "MLP Regression":"MLPReggressir_10.pkl"
+    "MLP Regression":"MLPRegressor_10.pkl"
     # Add additional models as available
 }
 
